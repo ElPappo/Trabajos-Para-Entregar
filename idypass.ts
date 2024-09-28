@@ -1,4 +1,4 @@
-/*• Desarrolle un algoritmo que permita loguearse (registrarse) 
+º/*• Desarrolle un algoritmo que permita loguearse (registrarse) 
 a un sistema, ingresando un nombre de usuario y la 
 contraseña adecuada. 
 • Considerar que tanto el usuario como la contraseña están 
